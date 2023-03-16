@@ -1,0 +1,240 @@
+body{
+    overflow-x: hidden;
+  }
+  .cnt-2:hover{
+    background-color: green;
+  }
+  .btn-1:hover{
+    background-color: brown;
+    color: white;
+  }
+  .card:hover{
+    background-color:darkgrey;
+    border-radius: 10px;
+  }
+  .head-1{
+    background-color: antiquewhite;
+  }
+  a{
+    color:black;
+      text-decoration:none;
+  }
+  .head-1{
+    display: flex;
+   color: white;
+   padding-left: 160px;
+  }
+  .head-1 ul li{
+      list-style: none;
+    margin-left: 20px;
+  }
+  .head-1 ul {
+      display:flex;
+    text-align: center;
+    padding: 1px 475px;
+  }
+  .yu{
+    color: black;
+    margin-left: -620px;
+    font-size: 18px;
+  }
+  .head-2{
+    position:absolute;
+    top:50%;
+    left:50%;
+  }
+  .btn{
+    background-color: green;
+    padding: 4px 28px;
+    border: none;
+    color: white;
+  }
+  .photo{
+    text-align: center;
+    padding: 5%;
+  }
+  .grid{
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+  }
+  .card{
+    background-color:whitesmoke;
+    padding: 30px 75px;
+  }
+  
+  .menu-par{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding: 100px;
+  }
+  .btn-1{
+    padding: 0px 24px;
+    background-color: white;
+    color: lightgray;
+  }
+  .menu-par-1{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+  }
+  .img-dwn{
+    padding: 125px;
+  }
+  .img-dwn img{
+    margin-left: -130px;
+  }
+  h2{
+    display: inline-block;
+    padding: 1px 15px;
+  }
+  ul li{
+    list-style: none;
+  }
+  .grid-1{
+    padding: 19px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 135px;
+  }
+  .in-img img{
+    margin-top: 46%;
+    margin-left: 20%;
+  }
+  .out-img{
+    text-align: justify;
+    padding: 90px;
+  }
+  .tournment{
+    text-align: center;
+    position: relative;
+  }
+  .tme{
+    color: lightgreen;
+  }
+  .invite{
+    border: 1px solid lightslategrey;
+    width: 50%;
+    margin-left: 425px;
+    position: absolute;
+    bottom: -234px;
+    padding: 1px 15px;
+    background-color: white;
+  }
+  .grid-3{
+    display: flex;
+  }
+  .all img{
+    position: relative;
+    width: 50%;
+    height: 50%;
+  }
+  .overall{
+    text-align: center;
+    margin-top: 330px;
+  }
+  .all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .feat{
+   background-image: url("D:\training\golf\golf\public\image\grnd-1.png");
+   background-position: center;
+    background-repeat: no-repeat;
+   margin-top: 145px;
+   display: flex;
+  }
+  .feat img{
+  height: 510px;
+  margin-top: -145px;
+  }
+  .img-up{
+    display: flex;
+   }
+  
+  .img-down{
+    display: flex;
+  }
+  .course img{
+    width:10%;
+    height: 5%;
+  }
+  .card-img img{
+    width: 74%;
+  }
+  .article{
+    text-align: center;
+  }
+  .content-new{
+    background-color: #487034;
+    width: 470px;
+    margin-left: 83px;
+    margin-top: -20px;
+    padding: 1px 1px;
+  }
+  .content-new hr{
+    width: 50%;
+  }
+  .grid-4{
+    display: flex;
+    margin-top: 90px;
+  }
+  .alltxt{
+    display: flex;
+      padding: 108px 235px;
+      justify-content: space-between;
+  }
+  .foot{
+    background-image: url("D:\training\golf\golf\public\image\grnd-1.png");
+    color: #f1f2f3;
+      margin-top: 65px;
+      display: flex;
+      justify-content: space-between;
+      padding: 45px 348px;
+      flex-wrap: nowrap;
+      opacity: 0.6;
+  }
+  
+  .letter input{
+    padding: 10px 20px;
+  }
+  .pop{
+    background-color:#487034;
+    color: #f1f2f3;
+    display: flex;
+  }
+  .ft-1{
+    padding-left: 77%;
+  }
+  .btn-cls{
+    padding: 2px 67px;
+  }
+  .mon a{
+    color: white;
+  }
+  
+  .course h1{
+    text-align: center;
+  }
+  .img-up-1 img{
+    width: 10%;
+    height: 5%;
+  } 
+  .hd h1{
+    text-align: center;
+  }
+  form{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px 12px;
+    margin-top: 130px;
+    background-color:black;
+    color: white;
+    display: grid;
+  }
+  .err{
+    color: red;
+  } 
